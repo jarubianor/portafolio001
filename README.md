@@ -18,13 +18,6 @@ Una interesante aplicación puede apreciarse con el trabajo de predicción (iden
 "Tokenizar" y conocer las palabras que están en nuestro texto.
 
 
-- []() 
-Para lorem ipsum dolor
-
-- []() 
-Para lorem ipsum dolor
-
-
 - [Clasificación de textos](https://github.com/jarubianor/Version-001/blob/main/taller7.ipynb) 
 Identificar qué clasificación pueden tener nuestros registros y poderlo tomar como insumo para tomar decisiones estratégicas.
 
@@ -58,3 +51,5 @@ Soy Ingeniero Industrial con más de 20 años de experiencia laboral. Mi primer 
 Le invito a conectar para poder explorar temas adicionales. No soy completamente experto en analítica de datos, pero hallo valor en las herramientas para encontrar soluciones de negocio. ¿Que tal una conversación para explorar temas de minería de procesos o de simulación apoyados por herramientas analítcas?
 
 En LinkedIn estoy disponible [aquí](https://www.linkedin.com/in/jarubiano/)
+
+Si quiere profundizar en este interesante mundo, visite el repositorio de [Viviana](http://vivianamarquez.com/NLP-KL-2021-I/)

@@ -1,10 +1,10 @@
 ## Bienvenido a mi portafolio 
 
-En este espacio les compartimos algunos ejercicios prácticos adelantados dentro de la asignatura de procesamiento de lenguaje natural (NLP). Este conjunto de herramientas permiten desde ejecutar una sencilla clasificación de registros, dar una idea del sentimiento que se intentó plasmar por uno o varios autores (¡no incluye sarcasmo!) o generar clasificaciones automáticas para encontrar patrones ocultos.
+En este espacio les compartimos algunos ejercicios prácticos adelantados dentro de la asignatura de procesamiento de lenguaje natural (NLP). Este conjunto de herramientas permiten desde ejecutar una sencilla clasificación de registros, dar una idea del sentimiento que se intentó plasmar por uno o varios autores (¡no incluye sarcasmo! - [Sheldon Cooper tampoco lo entiende](https://www.youtube.com/watch?v=vwnBsOh-xy8)) o generar clasificaciones automáticas para encontrar patrones ocultos.
 
-Una interesante aplicación puede apreciarse con el trabajo de predicción (identificación) de  noticias falsas hecho por [Nabanita Roy](https://nroy0110.medium.com/)   y que está disponible en este [enlace](https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443). Es decir, herramientas de esta clase, aplicadas de manera inteligente, ética y correcta potencializan la capacidad de la sociedad para tener mayor libertad.
+Una interesante aplicación puede apreciarse con el trabajo de predicción (identificación) de  noticias falsas hecho por [Nabanita Roy](https://nroy0110.medium.com/)   y que está disponible en este [enlace](https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443). Es decir, herramientas de esta clase, aplicadas de manera inteligente, ética y correcta potencializan la capacidad de la sociedad para tener mayor libertad. Otras interesantes aplicaciones permiten hacer que estas herramientas reduzcan actividades manuales a lo estictamente necesario, potencializando la capacidad del ser humano para analizar y encontrar caminos de mejora y eficiencia, como el publicado por [SaturdaysAI](https://www.youtube.com/watch?v=g0hWkl03N6c).
 
-### Markdown
+### Proyectos
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

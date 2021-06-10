@@ -48,7 +48,7 @@ El anterior (según tradición) más una capa de análisis de sentimiento usando
 
 Soy Ingeniero Industrial con más de 20 años de experiencia laboral. Mi primer trabajo fue como aprendiz cuando las empresas corrían de pánico ante el Y2K. [Si eres _millenial o post-millenial_, este enlace te puede orientar](https://www.nationalgeographic.org/encyclopedia/Y2K-bug/).
 
-Le invito a conectar para poder explorar temas adicionales. No soy completamente experto en analítica de datos, pero hallo valor en las herramientas para encontrar soluciones de negocio. ¿Que tal una conversación para explorar temas de minería de procesos o de simulación apoyados por herramientas analítcas?
+Le invito a conectar para poder explorar temas adicionales. No soy completamente experto en analítica de datos, pero hallo valor en las herramientas para encontrar soluciones de negocio. ¿Que tal una conversación para explorar temas de minería de procesos o de simulación apoyados por herramientas analíticas?
 
 En LinkedIn estoy disponible [aquí](https://www.linkedin.com/in/jarubiano/)
 

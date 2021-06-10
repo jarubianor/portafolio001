@@ -53,3 +53,4 @@ Le invito a conectar para poder explorar temas adicionales. No soy completamente
 En LinkedIn estoy disponible [aquí](https://www.linkedin.com/in/jarubiano/)
 
 Si quiere profundizar en este interesante mundo, visite el repositorio de [Viviana](http://vivianamarquez.com/NLP-KL-2021-I/)
+ 
